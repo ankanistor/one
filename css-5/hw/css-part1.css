@@ -1,0 +1,22 @@
+ul li a{
+  color: red;
+  border:none
+}
+
+div a{
+     color:rgb(0, 255, 128);
+}
+
+div .my {
+    border: 1px solid black;
+}
+
+#myId {
+    color:pink;
+}
+
+h1{
+  font-family: 'Water Brush', cursive;
+}
+
+
