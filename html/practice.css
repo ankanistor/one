@@ -1,0 +1,13 @@
+img{
+    border:80px solid rgb(108, 97, 117);
+}
+body {background-color:bisque
+}
+h1 {color: brown;
+text-align: center
+}
+p { 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:20px
+}
+p.solid {border-style:dotted;}
