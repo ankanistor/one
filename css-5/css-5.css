@@ -1,0 +1,144 @@
+/* .myClass {
+color:green;
+border:1px solid yellow;
+}
+
+.classTwo {
+    color:pink;
+}
+
+a, p, span{
+    color:green;
+}
+
+span{
+    color:brown
+}
+
+#anca{
+    color:aqua
+}
+
+*{
+    text-decoration: underline;
+}
+
+a[href] {
+    color: blue
+}
+*/
+
+input[type="text"]{
+    color:yellow;
+    border:2px solid yellow;
+    width:300px;
+}
+input:hover{
+    width:200px;
+}
+input:focus{
+    width:500px;
+    border:4px solid red;
+}
+/*
+input[type="button"]{
+    border:2px solid red;
+}
+
+/* p::first-letter{
+    color:blue
+} */
+/* p::before{
+    content:'..123..'
+} */
+
+/* p:hover{color:red} */
+
+/* /* a:link{
+    color:yellow
+}; */
+
+/* a:visited {
+    color: #00FF00;
+} */ */
+
+/* mouse over link */
+/* a:hover {
+    color: #FF00FF;
+} */
+
+/* selected link */
+/* a:active {
+    color: brown;
+}
+
+input:focus{
+    color:pink
+} */ */
+
+/* div:first-child{
+    width:200px;
+    height:100px;
+} */
+
+h5:first-child{color:red}
+p:first-child{color:aqua}
+/* p:nth-child(4){color:green} */
+/* p:nth-child(even){color:yellow} */
+
+.clasa1{
+    color: rgb(179, 76, 93);
+    border:1px solid blue;
+    border-radius:5px;
+    background-color: rgb(216, 224, 230);
+    padding-left: 10px;
+    padding-right: 10px;
+
+
+}
+
+p {color:blue}
+
+div {
+    color:brown
+}
+
+div {
+    color: red
+}
+
+.viorel1{color:aqua}
+.ordine{
+    color:blueviolet;
+    border:1px solid;
+    border-radius:3px;
+    padding-left: 20px;
+
+}
+button{
+    color:brown;
+    background-color: bisque;
+    border-right: 10px;
+    border-left: 10px;
+    border:solid 1px red; 
+}
+
+/* #myId{
+    color:yellow;
+} */
+
+main div .myClass{
+    color:pink
+}
+
+.classTwo{
+    color:brown
+}
+
+
+
+div{
+    /* color:blue !important; */
+    color:blue ;
+}
+
