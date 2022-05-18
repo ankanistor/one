@@ -1,0 +1,45 @@
+li:nth-child(even) {
+    color: green;
+}
+
+li:nth-child(3) {
+   /* background-color: aqua; */
+}
+
+li:first-child {
+    border-top: 1px solid green;
+}
+
+li:last-child {
+    border-bottom: 5px dotted blue;
+}
+
+/* .class3 {color: red} */
+
+li:nth-child(3) a,
+li:nth-child(5) a {
+    color:red 
+}
+
+li:nth-child(5) a:hover {
+    color:rgb(163, 163, 157)}
+
+ li:nth-child(2),
+ li:nth-child(5) {
+    list-style-type: none
+}  
+
+input:focus {
+    background-color:lightgrey ;
+}
+
+#fname:hover {
+    color: green;
+}
+
+#lname {
+    color: blue;
+}
+
+
+
